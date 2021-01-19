@@ -1,0 +1,41 @@
+<resources>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#bf4080</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#e6b3cc</item>
+    </style>
+
+    <!-- Contents theme. -->
+    <style name="BackgroundUser">
+        <item name="android:background">#4d1933</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="BackgroundViewPagerUserItem">
+        <item name="android:background">#4d1933</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="TextViewUsername">
+        <item name="android:textColor">#e6b3cc</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+
+    <style name="TextViewContent">
+        <item name="android:textColor">@color/colorTextContent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TextViewContent.TextViewInfo">
+        <item name="android:textColor">#f9ecf2</item>
+    </style>
+
+</resources>

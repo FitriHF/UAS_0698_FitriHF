@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UAS_0698</string>
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="repositories_detail_user">Repositori</string>
+    <string name="followers_tab_title">Pengikut</string>
+    <string name="following_tab_title">Mengikuti</string>
+    <string name="no_follower_info">Tidak ada Pengikut</string>
+    <string name="no_following_info">Tidak ada yang Mengikuti</string>
+    <string name="searching_status_info">Mencari...</string>
+    <string name="no_name_detail">Tidak ada Nama</string>
+    <string name="no_company_detail">Tidak ada perusahaan</string>
+    <string name="no_location_detail">Tidak ada lokasi</string>
+    <string name="language_settings_menu_item">Pengaturan Bahasa</string>
+    <string name="exit_menu_item">Keluar</string>
+    <string name="search_username">Cari Pengguna</string>
+    <string name="status_info">Klik dan Ketik untuk Mencari</string>
+    <string name="type_item_user" translatable="false">Tipe :</string>
+    <string name="type_item_follower" translatable="false">"Tipe : "</string>
+    <string name="type_following_item">"Tipe : "</string>
+    <string name="users_found_status_info">Pengguna ditemukan</string>
+    <string name="user_not_found_status_info" translatable="false">Pengguna tidak ditemukan</string>
+    <string name="app_title_detail">Detail Pengguna</string>
+</resources>
